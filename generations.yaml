@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation (8P)"
+    start_year: 2011
+    end_year: 2012
+    description: "The original Audi RS 3 was based on the second-generation A3 (8P) platform, offered exclusively in the five-door Sportback body style. It featured a turbocharged 2.5L five-cylinder engine producing 340 HP, paired with a seven-speed S tronic dual-clutch transmission and quattro all-wheel drive. The distinctive five-cylinder engine delivered a unique exhaust note reminiscent of Audi's rally heritage. Performance was impressive, with 0-62 mph (0-100 km/h) in 4.6 seconds. The RS 3 featured wider fenders, aggressive styling, lowered suspension, and larger brakes compared to the standard A3. Only a limited number were produced before the end of the 8P platform's lifecycle."
+
+  - name: "Second Generation (8V)"
+    start_year: 2015
+    end_year: 2020
+    description: "Based on the third-generation A3 (8V), the second-generation RS 3 continued with the turbocharged 2.5L five-cylinder engine, now producing 367 HP (later increased to 400 HP with the 2017 facelift). It was initially offered as a Sportback, with a sedan variant added in 2017. The quattro system was enhanced with torque vectoring capabilities, and the exterior featured distinctive RS styling including flared wheel arches, aggressive bumpers, and oval exhaust tips. This generation introduced more technology, including the Virtual Cockpit digital instrument cluster with RS-specific displays."
+
+  - name: "Third Generation (8Y)"
+    start_year: 2021
+    end_year: null
+    description: "The current RS 3, based on the fourth-generation A3 (8Y), features the most powerful version of the 2.5L five-cylinder engine yet, producing 401 HP. A major innovation is the RS Torque Splitter, which enables true torque vectoring on the rear axle for improved handling and the ability to perform controlled drifts in specific drive modes. Available in both Sportback and sedan body styles, it features the most aggressive styling yet with a wider track, massive air intakes, and RS-specific details. Performance is enhanced with 0-62 mph acceleration in just 3.8 seconds. The interior features sport seats, RS-specific displays, and the latest MMI touch interface. The third-generation RS 3 represents the pinnacle of Audi's compact performance models, combining the heritage of the five-cylinder engine with cutting-edge chassis technology."
