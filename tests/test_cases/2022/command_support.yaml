@@ -89,6 +89,8 @@ unsupported_commands_by_ecu:
   - 715.222357:RS3_CRASH_CNT_ROLL
   746:
   - 746.2227C4:RS3_WNDSHLD_TEMP
+  7DF:
+  - 7DF.012F
   7E0:
   - 7E0.2210E0
   - 7E0.2211BA
