@@ -1,0 +1,5 @@
+command_id: 7E0.2210E0
+test_cases:
+- expected_values:
+    RS3_ODO_3: 103870
+  response: 7E8076210E0000195BE
