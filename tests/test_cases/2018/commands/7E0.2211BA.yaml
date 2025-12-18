@@ -1,0 +1,14 @@
+command_id: 7E0.2211BA
+test_cases:
+- expected_values:
+    RS3_OIL_LEVEL: 37.928
+  response: 7E8056211BA250A
+- expected_values:
+    RS3_OIL_LEVEL: 38.248
+  response: 7E8056211BA255A
+- expected_values:
+    RS3_OIL_LEVEL: 38.5
+  response: 7E8056211BA2599
+- expected_values:
+    RS3_OIL_LEVEL: 38.876
+  response: 7E8056211BA25F7
