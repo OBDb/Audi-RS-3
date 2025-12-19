@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     RS3_ODO_3: 103870
   response: 7E8076210E0000195BE
+- expected_values:
+    RS3_ODO_3: 104628
+  response: 7E8076210E0000198B4
+- expected_values:
+    RS3_ODO_3: 104703
+  response: 7E8076210E0000198FF
+- expected_values:
+    RS3_ODO_3: 104705
+  response: 7E8076210E000019901
