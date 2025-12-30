@@ -10,5 +10,8 @@ test_cases:
     RS3_ODO_3: 104703
   response: 7E8076210E0000198FF
 - expected_values:
-    RS3_ODO_3: 104705
-  response: 7E8076210E000019901
+    RS3_ODO_3: 104960
+  response: 7E8076210E000019A00
+- expected_values:
+    RS3_ODO_3: 106752
+  response: 7E8076210E00001A100
