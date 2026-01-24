@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Audi_A3"
+
 generations:
   - name: "First Generation (8P)"
     start_year: 2011
