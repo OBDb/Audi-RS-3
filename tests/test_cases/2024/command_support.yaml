@@ -140,8 +140,10 @@ unsupported_commands_by_ecu:
   - 7E1.222B1E:RS3_TIRE_RR_SPD
   - 7E1.7E9.0104
   - 7E1.7E9.0105
+  - 7E1.7E9.010C
   - 7E1.7E9.010D
   "7E4":
   - 7E4.7EC.0104
   - 7E4.7EC.0105
+  - 7E4.7EC.010C
   - 7E4.7EC.010D
