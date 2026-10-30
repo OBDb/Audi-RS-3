@@ -1,0 +1,32 @@
+command_id: 70B.775.2218A0|fc=1
+test_cases:
+- expected_values:
+    RS3_TP_FR: 2.725
+  response: |-
+    775100C6218A0245056
+    7752163216D416CFFAA
+- expected_values:
+    RS3_TP_FR: 2.75
+  response: |-
+    775100C6218A0245056
+    7752163216E416CFFAA
+- expected_values:
+    RS3_TP_FR: 2.75
+  response: |-
+    775100C6218A0245056
+    7752163216E426CFFAA
+- expected_values:
+    RS3_TP_FR: 2.775
+  response: |-
+    775100C6218A0245056
+    7752163216F426CFFAA
+- expected_values:
+    RS3_TP_FR: 2.8
+  response: |-
+    775100C6218A0245056
+    77521632170436CFFAA
+- expected_values:
+    RS3_TP_FR: 6.375
+  response: |-
+    775100C6218A0245056
+    775216321FFA76CFFAA

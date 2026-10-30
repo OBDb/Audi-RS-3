@@ -1,0 +1,22 @@
+command_id: 70B.775.2218A1|fc=1
+test_cases:
+- expected_values:
+    RS3_TP_FL: 2.7
+  response: |-
+    775100C6218A1245055
+    7752148206C406CFFAA
+- expected_values:
+    RS3_TP_FL: 2.725
+  response: |-
+    775100C6218A1245055
+    7752148206D406CFFAA
+- expected_values:
+    RS3_TP_FL: 2.75
+  response: |-
+    775100C6218A1245055
+    7752148206E406CFFAA
+- expected_values:
+    RS3_TP_FL: 6.375
+  response: |-
+    775100C6218A1245055
+    775214820FFA76CFFAA

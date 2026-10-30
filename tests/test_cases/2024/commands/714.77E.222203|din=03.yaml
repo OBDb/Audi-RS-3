@@ -1,0 +1,23 @@
+command_id: 714.77E.222203|din=03
+test_cases:
+- expected_values:
+    RS3_ODO_DASH: 26328
+  response: 77E066222030066D8
+- expected_values:
+    RS3_ODO_DASH: 26329
+  response: 77E066222030066D9
+- expected_values:
+    RS3_ODO_DASH: 26330
+  response: 77E066222030066DA
+- expected_values:
+    RS3_ODO_DASH: 26331
+  response: 77E066222030066DB
+- expected_values:
+    RS3_ODO_DASH: 26332
+  response: 77E066222030066DC
+- expected_values:
+    RS3_ODO_DASH: 26334
+  response: 77E066222030066DE
+- expected_values:
+    RS3_ODO_DASH: 26335
+  response: 77E066222030066DF
