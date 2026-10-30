@@ -1,0 +1,42 @@
+command_id: 746.7B0.2227C4|fc=1
+test_cases:
+- expected_values:
+    RS3_WNDSHLD_TEMP: 34.928
+  response: |-
+    7B010086227C48067A1
+    7B021FC5EAAAAAAAAAA
+- expected_values:
+    RS3_WNDSHLD_TEMP: 34.928
+  response: |-
+    7B010086227C480A862
+    7B0210859AAAAAAAAAA
+- expected_values:
+    RS3_WNDSHLD_TEMP: 34.928
+  response: |-
+    7B010086227C480E862
+    7B021085AAAAAAAAAAA
+- expected_values:
+    RS3_WNDSHLD_TEMP: 35.504
+  response: |-
+    7B010086227C4816912
+    7B0211054AAAAAAAAAA
+- expected_values:
+    RS3_WNDSHLD_TEMP: 35.504
+  response: |-
+    7B010086227C481A872
+    7B021085AAAAAAAAAAA
+- expected_values:
+    RS3_WNDSHLD_TEMP: 35.504
+  response: |-
+    7B010086227C481E7E2
+    7B021005EAAAAAAAAAA
+- expected_values:
+    RS3_WNDSHLD_TEMP: 35.504
+  response: |-
+    7B010086227C481E9B2
+    7B0211851AAAAAAAAAA
+- expected_values:
+    RS3_WNDSHLD_TEMP: 36.08
+  response: |-
+    7B010086227C48269F2
+    7B0211C50AAAAAAAAAA
