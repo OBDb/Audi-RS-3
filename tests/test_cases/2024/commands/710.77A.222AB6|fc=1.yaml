@@ -1,26 +1,20 @@
 command_id: 710.77A.222AB6|fc=1
 test_cases:
 - expected_values:
+    RS3_RANGE_PRI_RAW: 0
+    RS3_RANGE_SEC_RAW: 0
+    RS3_RANGE_TOTAL_RAW: 0
+    RS3_RANGE_UNIT: KM
+  response: |-
+    77A100A622AB6000000
+    77A2100000000AAAAAA
+- expected_values:
     RS3_RANGE_PRI_RAW: 75
     RS3_RANGE_TOTAL_RAW: 75
     RS3_RANGE_UNIT: MI
   response: |-
     77A100A622AB6004B00
     77A214B07FD21AAAAAA
-- expected_values:
-    RS3_RANGE_PRI_RAW: 80
-    RS3_RANGE_TOTAL_RAW: 80
-    RS3_RANGE_UNIT: MI
-  response: |-
-    77A100A622AB6005000
-    77A215007FD21AAAAAA
-- expected_values:
-    RS3_RANGE_PRI_RAW: 85
-    RS3_RANGE_TOTAL_RAW: 85
-    RS3_RANGE_UNIT: MI
-  response: |-
-    77A100A622AB6005500
-    77A215507FD01AAAAAA
 - expected_values:
     RS3_RANGE_PRI_RAW: 95
     RS3_RANGE_TOTAL_RAW: 95
