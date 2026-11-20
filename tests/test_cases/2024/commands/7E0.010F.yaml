@@ -4,5 +4,5 @@ test_cases:
     IAT: 16
   response: 7E803410F38
 - expected_values:
-    IAT: 38
-  response: 7E803410F4E
+    IAT: 56
+  response: 7E803410F60
